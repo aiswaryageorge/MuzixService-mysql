@@ -17,3 +17,6 @@
 10.Provide a second implementation of MuzixService.
     Named it MuzixServiceImpl2 and
     used @Primary and annotations for the required implementation.
+11.Connected to  mysql   
+12.created table track.
+13.passed values to table .
